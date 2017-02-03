@@ -4,12 +4,12 @@ Alexa Skill to get the todays or upcoming commemoration day.
 
 ## basic idea
 
-On March 14
-User : "Ask **Commy** about the **todays** commemoration day."
+On March 14<br/>
+User : "Ask **Commy** about the **todays** commemoration day."<br/>
 Alexa: "Today is **Pi Day** and **White Day**"
 
-On March 14, too
-User: "Ask **Commy** about the **upcoming** commemoration day."
+On March 14 too<br/>
+User: "Ask **Commy** about the **upcoming** commemoration day."<br/>
 Alexa:  "Tomorrow is the **World Consumer Rights Day**"
 
 ## build
