@@ -16,6 +16,9 @@ Alexa:  "Tomorrow is the **World Consumer Rights Day**"
 * npm 4.0.2
 * node 7.2.0
 
+## test
+* `npm test`
+
 ## build
 * `build.sh` creates a commy-skill.zip
 
