@@ -1,0 +1,31 @@
+{
+  "name": "commy-skill",
+  "version": "1.0.0",
+  "description": "Alexa Skill to get the todays or upcoming commemoration day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnltsk/commy-skill.git"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "commemoration",
+    "day"
+  ],
+  "author": "dnltsk",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dnltsk/commy-skill/issues"
+  },
+  "homepage": "https://github.com/dnltsk/commy-skill#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.3"
+  },
+  "devDependencies": {
+    "aws-lambda-mock-context": "^3.0.0"
+  }
+}
