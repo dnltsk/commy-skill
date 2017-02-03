@@ -12,6 +12,10 @@ On March 14 too<br/>
 User: "Ask **Commy** about the **upcoming** commemoration day."<br/>
 Alexa:  "Tomorrow is the **World Consumer Rights Day**"
 
+## environment
+* npm 4.0.2
+* node 7.2.0
+
 ## build
 * `build.sh` creates a commy-skill.zip
 
