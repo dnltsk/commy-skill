@@ -1,5 +1,11 @@
 'use strict';
+
+/**
+ * Use EC5 here!
+ */
+
 var Alexa = require('alexa-sdk');
+var commemorationDays = require('./commemoration-days-repository.json');
 
 var APP_ID = undefined; //OPTIONAL: replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
 var SKILL_NAME = 'Space Facts';
