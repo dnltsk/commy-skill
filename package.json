@@ -23,12 +23,11 @@
   },
   "homepage": "https://github.com/dnltsk/commy-skill#readme",
   "dependencies": {
-    "alexa-sdk": "^1.0.3"
+    "alexa-sdk": "^1.0.3",
+    "moment": "^2.17.1"
   },
   "devDependencies": {
     "aws-lambda-mock-context": "^3.0.0",
-    "iso8601-duration": "^1.0.6",
-    "jasmine-node": "^1.14.5",
-    "moment": "^2.17.1"
+    "jasmine-node": "^1.14.5"
   }
 }
