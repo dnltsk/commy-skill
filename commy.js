@@ -21,13 +21,13 @@ var Commy = function () {
   this.concatCdNames = function (cds) {
     var speech = "";
     for (var i = 0; i < cds.length; i++) {
-      speech += " <break time=\"1s\"/> "+nth(i+1)+": the " + cds[i].name;
+      speech += " <break time=\"1s\"/> " + nth(i + 1) + ": the " + cds[i].name;
     }
     return speech;
   };
 
-  function nth(n){
-    var ending = ["st","nd","rd"][((n+90)%100-10)%10-1]||"th";
+  function nth(n) {
+    var ending = ["st", "nd", "rd"][((n + 90) % 100 - 10) % 10 - 1] || "th";
     return n + ending;
   }
 };
