@@ -6,10 +6,14 @@
 
 var Alexa = require('alexa-sdk');
 var moment = require('moment');
-var Commy = require('./commy');
+var Commy = require('./src/commy');
+var Speech = require('./src/speech');
 
 var APP_ID = undefined; //OPTIONAL: replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
 var SKILL_NAME = 'Space Facts';
+var COMMY = new Commy();
+var SPEECH = new Speech();
+
 
 exports.handler = function (event, context, callback) {
   try {
@@ -27,22 +31,14 @@ var handlers = {
     this.emit('GetTodaysCommemorativeDay');
   },
   'GetTodaysCommemorativeDay': function () {
-    var c = new Commy();
     var now = moment(new Date());
-    var cds = c.filterTodaysCds(now);
-    var speechOutput = "Today ("+c.formatCdDate(now)+") is no commemorative day - sorry.";
-    if(cds.length == 1){
-      speechOutput = "Today ("+c.formatCdDate(now)+") is the " + cds[0].name;
-    }else if(cds.length > 1){
-      speechOutput = "Today ("+c.formatCdDate(now)+") are " + cds.length + " commemorative days : ";
-      speechOutput += c.concatCdNames(cds);
-    }
+    var cds = COMMY.filterTodaysCds(now);
+    var speechOutput = SPEECH.speechTodaysCds(cds);
     this.emit(':tell', speechOutput);
   },
   'GetUpcomingCommemorativeDay': function () {
-    var c = new Commy();
-    var cd = c.getRandomCd();
-    var formattedDate = c.formatCdDate(cd);
+    var cd = COMMY.getRandomCd();
+    var formattedDate = SPEECH.formatCdDate(cd);
     var speechOutput = "Upcoming commemorative day is the " + cd.name + " on " + formattedDate;
     this.emit(':tell', speechOutput);
   }
