@@ -28,15 +28,22 @@ var handlers = {
   },
   'GetTodaysCommemorativeDay': function () {
     var c = new Commy();
-    var cd = c.getRandomCd();
-    var speechOutput = "Today's commemorative day is " + cd.name;
-    this.emit(':tellWithCard', speechOutput, SKILL_NAME, cd.day);
+    var now = moment(new Date());
+    var cds = c.filterTodaysCds(now);
+    var speechOutput = "Today ("+c.formatCdDate(now)+") is no commemorative day - sorry.";
+    if(cds.length == 1){
+      speechOutput = "Today ("+c.formatCdDate(now)+") is the " + cds[0].name;
+    }else if(cds.length > 1){
+      speechOutput = "Today ("+c.formatCdDate(now)+") are " + cds.length + " commemorative days : ";
+      speechOutput += c.concatCdNames(cds);
+    }
+    this.emit(':tell', speechOutput);
   },
   'GetUpcomingCommemorativeDay': function () {
     var c = new Commy();
     var cd = c.getRandomCd();
     var formattedDate = c.formatCdDate(cd);
     var speechOutput = "Upcoming commemorative day is the " + cd.name + " on " + formattedDate;
-    this.emit(':tellWithCard', speechOutput, SKILL_NAME, cd.day);
+    this.emit(':tell', speechOutput);
   }
 };
