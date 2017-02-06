@@ -4,7 +4,7 @@
   "description": "Alexa Skill to get the todays or upcoming commemoration day",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/jasmine-node spec"
+    "test": "./node_modules/.bin/jasmine-node src"
   },
   "repository": {
     "type": "git",
