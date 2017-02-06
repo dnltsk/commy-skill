@@ -1,0 +1,10 @@
+{
+  "intents": [
+    {
+      "intent": "GetTodaysCommemorativeDay"
+    },
+    {
+      "intent": "GetUpcomingCommemorativeDay"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+GetTodaysCommemorativeDay what commemorative day is today
+GetTodaysCommemorativeDay what's the todays commemorative day
+GetTodaysCommemorativeDay today
+GetUpcomingCommemorativeDay what's the upcoming commemorative day
+GetUpcomingCommemorativeDay upcoming
+GetUpcomingCommemorativeDay what's the next commemorative day
+GetUpcomingCommemorativeDay next
