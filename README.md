@@ -34,3 +34,9 @@ https://en.m.wikipedia.org/wiki/List_of_commemorative_days
 
 * Alexa Skills Kit Tutorial
 https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/content/fact-skill-1
+
+* Build Your Own Alexa Skill
+https://github.com/oreillymedia/hello-alexa
+
+* Speech Synthesis Markup Language (SSML) Reference
+https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/speech-synthesis-markup-language-ssml-reference
