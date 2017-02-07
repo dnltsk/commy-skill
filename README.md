@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/dnltsk/commy-skill.svg?branch=master)](https://travis-ci.org/dnltsk/commy-skill/) [![codebeat badge](https://codebeat.co/badges/e9aa556f-a258-42bb-b5ba-963e7baf8658)](https://codebeat.co/projects/github-com-dnltsk-commy-skill) [![codecov](https://codecov.io/gh/dnltsk/commy-skill/branch/master/graph/badge.svg)](https://codecov.io/gh/dnltsk/commy-skill)
+
 # Commy Skill
 
 Alexa Skill to get the todays or upcoming commemoration day.
