@@ -31,13 +31,13 @@ var handlers = {
   },
   'GetTodaysCommemorativeDay': function () {
     var now = getNowAsMoment();
-    var cds = COMMY.filterTodaysCds(now);
+    var cds = COMMY.filterCdsOfDay(now);
     var speechOutput = SPEECH.speechTodaysCds(cds, now);
     this.emit(':tell', speechOutput);
   },
   'GetUpcomingCommemorativeDay': function () {
-    var cd = COMMY.getRandomCd();
-    var formattedDate = SPEECH.formatCdDate(cd);
+    var now = getNowAsMoment();
+    var cds = COMMY.filterUpcomingCds(now);
     var speechOutput = "Upcoming commemorative day is the " + cd.name + " on " + formattedDate;
     this.emit(':tell', speechOutput);
   }
