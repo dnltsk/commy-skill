@@ -10,7 +10,6 @@ var Commy = require('./src/commy');
 var Speech = require('./src/speech');
 
 var APP_ID = undefined; //OPTIONAL: replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
-var SKILL_NAME = 'Space Facts';
 var COMMY = new Commy();
 var SPEECH = new Speech();
 
@@ -31,9 +30,9 @@ var handlers = {
     this.emit('GetTodaysCommemorativeDay');
   },
   'GetTodaysCommemorativeDay': function () {
-    var now = moment(new Date());
+    var now = getNowAsMoment();
     var cds = COMMY.filterTodaysCds(now);
-    var speechOutput = SPEECH.speechTodaysCds(cds);
+    var speechOutput = SPEECH.speechTodaysCds(cds, now);
     this.emit(':tell', speechOutput);
   },
   'GetUpcomingCommemorativeDay': function () {
@@ -43,3 +42,7 @@ var handlers = {
     this.emit(':tell', speechOutput);
   }
 };
+
+function getNowAsMoment() {
+  return moment(new Date());
+}

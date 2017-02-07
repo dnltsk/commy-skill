@@ -2,9 +2,8 @@ var moment = require("moment");
 
 var Speech = function(){
 
-  this.speechTodaysCds = function(cds){
-    var now = moment(new Date());
-    var speechOutput = "Today ("+this.formatCdDate(now)+")";
+  this.speechTodaysCds = function(cds, mom){
+    var speechOutput = "Today ("+this.formatCdDate(mom)+")";
     if(cds.length == 0){
       speechOutput += " is no commemorative day - sorry."
     }else if(cds.length == 1){
@@ -23,13 +22,13 @@ var Speech = function(){
     return speech;
   };
 
-  this.speechPause = function(lengthInSeconds){
-    return "<break time=\"1s\"/>"
-  };
-
   this.formatCdDate = function (mom) {
     return mom.format('dddd, MMMM Do');
   };
+
+  function speechPause(lengthInSeconds){
+    return "<break time=\"1s\"/>"
+  }
 
   function nth(n) {
     var ending = ["st", "nd", "rd"][((n + 90) % 100 - 10) % 10 - 1] || "th";
