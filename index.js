@@ -38,7 +38,7 @@ var handlers = {
   'GetUpcomingCommemorativeDay': function () {
     var now = getNowAsMoment();
     var cds = COMMY.filterUpcomingCds(now);
-    var speechOutput = "Upcoming commemorative day is the " + cd.name + " on " + formattedDate;
+    var speechOutput = SPEECH.speechUpcomingCds(cds, now);
     this.emit(':tell', speechOutput);
   }
 };
