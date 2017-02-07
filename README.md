@@ -2,16 +2,16 @@
 
 # Commy Skill
 
-Alexa Skill to get the todays or upcoming commemoration day.
+Alexa Skill to get the today's or upcoming commemoration days.
 
 ## basic idea
 
 On March 14<br/>
-User : "Ask **Commy** about the **todays** commemoration day."<br/>
+User : "Alexa, ask **Commy** about the **todays** commemoration days."<br/>
 Alexa: "Today is **Pi Day** and **White Day**"
 
 On March 14 too<br/>
-User: "Ask **Commy** about the **upcoming** commemoration day."<br/>
+User: "Alexa, ask **Commy** about the **upcoming** commemoration days."<br/>
 Alexa:  "Tomorrow is the **World Consumer Rights Day**"
 
 ## environment
