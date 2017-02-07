@@ -29,16 +29,16 @@ Alexa:  "Tomorrow is the **World Consumer Rights Day**"
 
 ## data source
 
-* List of commemorative days on Wikipedia
+* List of commemorative days on Wikipedia<br/>
 https://en.m.wikipedia.org/wiki/List_of_commemorative_days
 
 ## references
 
-* Alexa Skills Kit Tutorial
+* Alexa Skills Kit Tutorial<br/>
 https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/content/fact-skill-1
 
-* Build Your Own Alexa Skill
+* Build Your Own Alexa Skill<br/>
 https://github.com/oreillymedia/hello-alexa
 
-* Speech Synthesis Markup Language (SSML) Reference
+* Speech Synthesis Markup Language (SSML) Reference<br/>
 https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/speech-synthesis-markup-language-ssml-reference
