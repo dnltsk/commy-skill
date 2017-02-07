@@ -17,7 +17,7 @@ var Speech = function(){
   this.concatCdNames = function (cds) {
     var speech = "";
     for (var i = 0; i < cds.length; i++) {
-      speech += this.speechPause(1) + nth(i + 1) + ": the " + cds[i].name;
+      speech += speechPause(1) + nth(i + 1) + ": the " + cds[i].name;
     }
     return speech;
   };
