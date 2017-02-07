@@ -30,6 +30,9 @@ var Speech = function(){
     return "<break time=\"1s\"/>"
   }
 
+  /*
+   * copied from http://stackoverflow.com/questions/13627308/add-st-nd-rd-and-th-ordinal-suffix-to-a-number
+   */
   function nth(n) {
     var ending = ["st", "nd", "rd"][((n + 90) % 100 - 10) % 10 - 1] || "th";
     return n + ending;
