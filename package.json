@@ -4,7 +4,8 @@
   "description": "Alexa Skill to get the todays or upcoming commemoration day",
   "main": "index.js",
   "scripts": {
-    "test": "istanbul cover ./node_modules/.bin/jasmine-node src"
+    "test": "istanbul cover ./node_modules/.bin/jasmine-node src",
+    "report-coverage": "codecov"
   },
   "repository": {
     "type": "git",
@@ -28,6 +29,7 @@
   },
   "devDependencies": {
     "aws-lambda-mock-context": "^3.0.0",
+    "codecov": "^1.0.1",
     "istanbul": "^0.4.5",
     "jasmine-node": "^1.14.5"
   }
