@@ -3,3 +3,4 @@
 node_modules/
 npm-debug.log
 commy-skill.zip
+coverage/
