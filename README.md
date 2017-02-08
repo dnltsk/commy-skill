@@ -29,8 +29,11 @@ Alexa:  "Tomorrow is the **World Consumer Rights Day**"
 
 ## data source
 
-* List of commemorative days on Wikipedia<br/>
+* list of commemorative days from Wikipedia, under Creative Commons<br/>
 https://en.m.wikipedia.org/wiki/List_of_commemorative_days
+
+* icon image from Iconfinder, under Creative Commons<br/>
+https://www.iconfinder.com/icons/1118206/calendar_organizer_icon
 
 ## references
 
