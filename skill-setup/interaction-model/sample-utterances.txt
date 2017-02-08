@@ -1,7 +1,14 @@
-GetTodaysCommemorativeDay what commemorative day is today
-GetTodaysCommemorativeDay what's the todays commemorative day
+GetTodaysCommemorativeDay what's up today
 GetTodaysCommemorativeDay today
-GetUpcomingCommemorativeDay what's the upcoming commemorative day
-GetUpcomingCommemorativeDay upcoming
-GetUpcomingCommemorativeDay what's the next commemorative day
+GetTodaysCommemorativeDay what commemorative day is today
+GetTodaysCommemorativeDay what are commemorative days are today
+GetTodaysCommemorativeDay what's the todays commemorative day
+GetTodaysCommemorativeDay what are the todays commemorative days
+
+GetUpcomingCommemorativeDay what comes next
 GetUpcomingCommemorativeDay next
+GetUpcomingCommemorativeDay upcoming
+GetUpcomingCommemorativeDay what's the upcoming commemorative day
+GetUpcomingCommemorativeDay what are upcoming commemorative days
+GetUpcomingCommemorativeDay what's the next commemorative day
+GetUpcomingCommemorativeDay what are the next commemorative days
