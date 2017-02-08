@@ -7,7 +7,7 @@ Alexa Skill to get the today's or upcoming commemoration days.
 ## basic idea
 
 On March 14<br/>
-User : "Alexa, ask **Commy** about the **todays** commemoration days."<br/>
+User : "Alexa, ask **Commy** about the **today's** commemoration days."<br/>
 Alexa: "Today is **Pi Day** and **White Day**"
 
 On March 14 too<br/>
