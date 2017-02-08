@@ -9,7 +9,7 @@ var moment = require('moment');
 var Commy = require('./src/commy');
 var Speech = require('./src/speech');
 
-var APP_ID = undefined; //OPTIONAL: replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
+var APP_ID =  "amzn1.ask.skill.60dac575-4c17-4ad4-9c49-184469ba8a37";
 var COMMY = new Commy();
 var SPEECH = new Speech();
 
