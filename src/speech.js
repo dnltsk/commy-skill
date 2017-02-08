@@ -15,9 +15,7 @@ var Speech = function(){
   };
 
   this.speechUpcomingCds = function(cds, now){
-    console.log("speechUpcomingCds, ",now, cds);
     var upcomingMom = moment([now.year(), cds[0].month-1, cds[0].day]);
-    console.log("speechUpcomingCds, ",upcomingMom );
     var speechOutput = "";
     if(cds.length == 1){
       speechOutput += "The upcoming commemorative day is on "+this.formatCdDate(upcomingMom)+": the " + cds[0].name;
