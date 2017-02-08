@@ -15,6 +15,11 @@
     "day": 1
   },
   {
+    "name": "Kwanzaa",
+    "month": 1,
+    "day": 1
+  },
+  {
     "name": "Myanmar Independence Day",
     "month": 1,
     "day": 4
@@ -25,7 +30,7 @@
     "day": 9
   },
   {
-    "name": "National Youth Day in India",
+    "name": "National Youth Day (in India)",
     "month": 1,
     "day": 12
   },
@@ -45,7 +50,7 @@
     "day": 21
   },
   {
-    "name": "National Voters' Day in India",
+    "name": "National Voters' Day (in India)",
     "month": 1,
     "day": 25
   },
@@ -60,7 +65,7 @@
     "day": 25
   },
   {
-    "name": "Republic Day in India",
+    "name": "Republic Day (in India)",
     "month": 1,
     "day": 26
   },
@@ -130,7 +135,7 @@
     "day": 6
   },
   {
-    "name": "Waitangi Day in New Zealand",
+    "name": "Waitangi Day (in New Zealand)",
     "month": 2,
     "day": 6
   },
@@ -165,7 +170,7 @@
     "day": 21
   },
   {
-    "name": "Language Movement Day in Bangladesh",
+    "name": "Language Movement Day (in Bangladesh)",
     "month": 2,
     "day": 21
   },
@@ -180,7 +185,7 @@
     "day": 27
   },
   {
-    "name": "National Science Day in India",
+    "name": "National Science Day (in India)",
     "month": 2,
     "day": 28
   },
@@ -190,7 +195,7 @@
     "day": 28
   },
   {
-    "name": "Saint David's Day in Wales",
+    "name": "Saint David's Day (in Wales)",
     "month": 3,
     "day": 1
   },
@@ -335,7 +340,7 @@
     "day": 2
   },
   {
-    "name": "World Health Day ",
+    "name": "World Health Day",
     "month": 4,
     "day": 7
   },
@@ -415,7 +420,7 @@
     "day": 25
   },
   {
-    "name": "Liberation Day in Italy",
+    "name": "Liberation Day (in Italy)",
     "month": 4,
     "day": 25
   },
@@ -430,7 +435,7 @@
     "day": 26
   },
   {
-    "name": "King's Day in The Netherlands",
+    "name": "King's Day (in The Netherlands)",
     "month": 4,
     "day": 27
   },
@@ -443,5 +448,840 @@
     "name": "International Jazz Day",
     "month": 4,
     "day": 30
+  },
+  {
+    "name": "International Workers' Day",
+    "month": 5,
+    "day": 1
+  },
+  {
+    "name": "May Day",
+    "month": 5,
+    "day": 1
+  },
+  {
+    "name": "World Press Freedom Day",
+    "month": 5,
+    "day": 3
+  },
+  {
+    "name": "Greenery Day",
+    "month": 5,
+    "day": 4
+  },
+  {
+    "name": "Remembrance of the Dead",
+    "month": 5,
+    "day": 4
+  },
+  {
+    "name": "Star Wars Day",
+    "month": 5,
+    "day": 4
+  },
+  {
+    "name": "Cinco de Mayo",
+    "month": 5,
+    "day": 5
+  },
+  {
+    "name": "International Midwives' Day",
+    "month": 5,
+    "day": 5
+  },
+  {
+    "name": "International No Diet Day",
+    "month": 5,
+    "day": 6
+  },
+  {
+    "name": "Victory in Europe Day",
+    "month": 5,
+    "day": 8
+  },
+  {
+    "name": "Military Spouse Day",
+    "month": 5,
+    "day": 11
+  },
+  {
+    "name": "International Nurses Day",
+    "month": 5,
+    "day": 12
+  },
+  {
+    "name": "International Day of Families",
+    "month": 5,
+    "day": 15
+  },
+  {
+    "name": "International Day Against Homophobia and Transphobia",
+    "month": 5,
+    "day": 17
+  },
+  {
+    "name": "World Information Society Day",
+    "month": 5,
+    "day": 17
+  },
+  {
+    "name": "International Day for Biological Diversity",
+    "month": 5,
+    "day": 22
+  },
+  {
+    "name": "World Turtle Day",
+    "month": 5,
+    "day": 23
+  },
+  {
+    "name": "Commonwealth Day",
+    "month": 5,
+    "day": 24
+  },
+  {
+    "name": "African Liberation Day",
+    "month": 5,
+    "day": 25
+  },
+  {
+    "name": "Geek Pride Day",
+    "month": 5,
+    "day": 25
+  },
+  {
+    "name": "International Missing Children's Day",
+    "month": 5,
+    "day": 25
+  },
+  {
+    "name": "Towel Day",
+    "month": 5,
+    "day": 25
+  },
+  {
+    "name": "World Multiple Sclerosis Day",
+    "month": 5,
+    "day": 25
+  },
+  {
+    "name": "Menstrual Hygiene Day",
+    "month": 5,
+    "day": 28
+  },
+  {
+    "name": "World No Tobacco Day",
+    "month": 5,
+    "day": 31
+  },
+  {
+    "name": "Republic Day (in Italy)",
+    "month": 6,
+    "day": 2
+  },
+  {
+    "name": "World Environment Day",
+    "month": 6,
+    "day": 5
+  },
+  {
+    "name": "D-Day",
+    "month": 6,
+    "day": 6
+  },
+  {
+    "name": "World Oceans Day",
+    "month": 6,
+    "day": 8
+  },
+  {
+    "name": "Independence Day (in the Philippines)",
+    "month": 6,
+    "day": 12
+  },
+  {
+    "name": "World Day Against Child Labour",
+    "month": 6,
+    "day": 12
+  },
+  {
+    "name": "World Blood Donor Day",
+    "month": 6,
+    "day": 14
+  },
+  {
+    "name": "Day of the African Child",
+    "month": 6,
+    "day": 16
+  },
+  {
+    "name": "Icelandic National Day",
+    "month": 6,
+    "day": 17
+  },
+  {
+    "name": "Autistic Pride Day",
+    "month": 6,
+    "day": 18
+  },
+  {
+    "name": "Juneteenth",
+    "month": 6,
+    "day": 19
+  },
+  {
+    "name": "World Refugee Day",
+    "month": 6,
+    "day": 20
+  },
+  {
+    "name": "Fathers Day",
+    "month": 6,
+    "day": 19
+  },
+  {
+    "name": "World Hydrography Day",
+    "month": 6,
+    "day": 21
+  },
+  {
+    "name": "Fête de la Musique",
+    "month": 6,
+    "day": 21
+  },
+  {
+    "name": "International Yoga Day",
+    "month": 6,
+    "day": 21
+  },
+  {
+    "name": "International Day against Drug Abuse and Illicit Trafficking",
+    "month": 6,
+    "day": 26
+  },
+  {
+    "name": "Tau Day",
+    "month": 6,
+    "day": 28
+  },
+  {
+    "name": "Canada Day",
+    "month": 7,
+    "day": 1
+  },
+  {
+    "name": "National Doctors' Day (in India)",
+    "month": 7,
+    "day": 1
+  },
+  {
+    "name": "Chartered Accountants' Day (in India)",
+    "month": 7,
+    "day": 1
+  },
+  {
+    "name": "World UFO Day",
+    "month": 7,
+    "day": 2
+  },
+  {
+    "name": "Independence Day (in the US)",
+    "month": 7,
+    "day": 4
+  },
+  {
+    "name": "World Population Day",
+    "month": 7,
+    "day": 11
+  },
+  {
+    "name": "Malala Day",
+    "month": 7,
+    "day": 12
+  },
+  {
+    "name": "Bastille Day",
+    "month": 7,
+    "day": 14
+  },
+  {
+    "name": "World Day for International Justice",
+    "month": 7,
+    "day": 17
+  },
+  {
+    "name": "Mandela Day",
+    "month": 7,
+    "day": 18
+  },
+  {
+    "name": "Pi Approximation Day",
+    "month": 7,
+    "day": 22
+  },
+  {
+    "name": "Kargil Vijay Diwas",
+    "month": 7,
+    "day": 26
+  },
+  {
+    "name": "World Hepatitis Day",
+    "month": 7,
+    "day": 28
+  },
+  {
+    "name": "International Tiger Day",
+    "month": 7,
+    "day": 29
+  },
+  {
+    "name": "Yorkshire Day",
+    "month": 8,
+    "day": 1
+  },
+  {
+    "name": "International Youth Day",
+    "month": 8,
+    "day": 12
+  },
+  {
+    "name": "International Lefthanders Day",
+    "month": 8,
+    "day": 13
+  },
+  {
+    "name": "Independence Day (in Pakistan)",
+    "month": 8,
+    "day": 14
+  },
+  {
+    "name": "National day of mourning (in Bangladesh)",
+    "month": 8,
+    "day": 15
+  },
+  {
+    "name": "Independence Day (in India)",
+    "month": 8,
+    "day": 15
+  },
+  {
+    "name": "Victory over Japan Day (in the UK)",
+    "month": 8,
+    "day": 15
+  },
+  {
+    "name": "Day of the Assumption of the Virgin Mary",
+    "month": 8,
+    "day": 15
+  },
+  {
+    "name": "Bennington Battle Day",
+    "month": 8,
+    "day": 16
+  },
+  {
+    "name": "Indonesian Independence Day",
+    "month": 8,
+    "day": 17
+  },
+  {
+    "name": "World Mosquito Day",
+    "month": 8,
+    "day": 20
+  },
+  {
+    "name": "Indian Akshay Urja Day",
+    "month": 8,
+    "day": 20
+  },
+  {
+    "name": "International Day for the Remembrance of the Slave Trade and its Abolition",
+    "month": 8,
+    "day": 23
+  },
+  {
+    "name": "European Day of Remembrance for Victims of Stalinism and Nazism",
+    "month": 8,
+    "day": 23
+  },
+  {
+    "name": "Women's Equality Day",
+    "month": 8,
+    "day": 26
+  },
+  {
+    "name": "National Sports Day",
+    "month": 8,
+    "day": 29
+  },
+  {
+    "name": "National Day (in Malaysia)",
+    "month": 8,
+    "day": 31
+  },
+  {
+    "name": "Victory over Japan Day (in the US)",
+    "month": 9,
+    "day": 2
+  },
+  {
+    "name": "Skyscraper Day",
+    "month": 9,
+    "day": 3
+  },
+  {
+    "name": "International Day of Charity",
+    "month": 9,
+    "day": 5
+  },
+  {
+    "name": "Teachers' Day (in India)",
+    "month": 9,
+    "day": 5
+  },
+  {
+    "name": "Defense Day (in Pakistan)",
+    "month": 9,
+    "day": 6
+  },
+  {
+    "name": "Brazilian Independence Day",
+    "month": 9,
+    "day": 7
+  },
+  {
+    "name": "World Suicide Prevention Day",
+    "month": 9,
+    "day": 10
+  },
+  {
+    "name": "Patriot Day",
+    "month": 9,
+    "day": 11
+  },
+  {
+    "name": "Hindi Day",
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Engineer's Day (in India)",
+    "month": 9,
+    "day": 15
+  },
+  {
+    "name": "Malaysia Day",
+    "month": 9,
+    "day": 16
+  },
+  {
+    "name": "International Talk Like a Pirate Day",
+    "month": 9,
+    "day": 19
+  },
+  {
+    "name": "International Day of Peace",
+    "month": 9,
+    "day": 21
+  },
+  {
+    "name": "World Car Free Day",
+    "month": 9,
+    "day": 22
+  },
+  {
+    "name": "Celebrate Bisexuality Day",
+    "month": 9,
+    "day": 23
+  },
+  {
+    "name": "As You Wish Day",
+    "month": 9,
+    "day": 25
+  },
+  {
+    "name": "European Day of Languages",
+    "month": 9,
+    "day": 26
+  },
+  {
+    "name": "World Tourism Day",
+    "month": 9,
+    "day": 27
+  },
+  {
+    "name": "World Rabies Day",
+    "month": 9,
+    "day": 28
+  },
+  {
+    "name": "World Heart Day",
+    "month": 9,
+    "day": 29
+  },
+  {
+    "name": "International Coffee Day",
+    "month": 10,
+    "day": 1
+  },
+  {
+    "name": "World Vegetarian Day",
+    "month": 10,
+    "day": 1
+  },
+  {
+    "name": "Gandhi Jayanthi",
+    "month": 10,
+    "day": 2
+  },
+  {
+    "name": "International Day of Non-Violence",
+    "month": 10,
+    "day": 2
+  },
+  {
+    "name": "German Unity Day",
+    "month": 10,
+    "day": 3
+  },
+  {
+    "name": "Stevie Ray Vaughan Day (in Austin, Texas, US)",
+    "month": 10,
+    "day": 3
+  },
+  {
+    "name": "World Animal Day",
+    "month": 10,
+    "day": 4
+  },
+  {
+    "name": "World Teachers' Day",
+    "month": 10,
+    "day": 5
+  },
+  {
+    "name": "Coaches' Day",
+    "month": 10,
+    "day": 6
+  },
+  {
+    "name": "German-American Day",
+    "month": 10,
+    "day": 6
+  },
+  {
+    "name": "National Poetry Day (in Britain)",
+    "month": 10,
+    "day": 6
+  },
+  {
+    "name": "World Post Day",
+    "month": 10,
+    "day": 9
+  },
+  {
+    "name": "World Mental Health Day",
+    "month": 10,
+    "day": 10
+  },
+  {
+    "name": "International Day of the Girl Child",
+    "month": 10,
+    "day": 11
+  },
+  {
+    "name": "Fiesta Nacional de España",
+    "month": 10,
+    "day": 12
+  },
+  {
+    "name": "World Standards Day",
+    "month": 10,
+    "day": 14
+  },
+  {
+    "name": "Pregnancy and Infant Loss Remembrance Day",
+    "month": 10,
+    "day": 15
+  },
+  {
+    "name": "Global Handwashing Day",
+    "month": 10,
+    "day": 15
+  },
+  {
+    "name": "World Food Day",
+    "month": 10,
+    "day": 16
+  },
+  {
+    "name": "International Day for the Eradication of Poverty",
+    "month": 10,
+    "day": 17
+  },
+  {
+    "name": "Mole Day",
+    "month": 10,
+    "day": 23
+  },
+  {
+    "name": "United Nations Day",
+    "month": 10,
+    "day": 24
+  },
+  {
+    "name": "Intersex Awareness Day",
+    "month": 10,
+    "day": 26
+  },
+  {
+    "name": "Labour Day (in New Zealand)",
+    "month": 10,
+    "day": 27
+  },
+  {
+    "name": "National Cat Day (in the US)",
+    "month": 10,
+    "day": 29
+  },
+  {
+    "name": "Halloween",
+    "month": 10,
+    "day": 31
+  },
+  {
+    "name": "World Vegan Day",
+    "month": 11,
+    "day": 1
+  },
+  {
+    "name": "All Saints' Day",
+    "month": 11,
+    "day": 1
+  },
+  {
+    "name": "All Souls' Day",
+    "month": 11,
+    "day": 2
+  },
+  {
+    "name": "Bonfire Night, a.k.a Guy Fawkes Night",
+    "month": 11,
+    "day": 5
+  },
+  {
+    "name": "Intersex Day of Remembrance",
+    "month": 11,
+    "day": 8
+  },
+  {
+    "name": "Iqbal Day",
+    "month": 11,
+    "day": 9
+  },
+  {
+    "name": "Armistice Day a.k.a. Remembrance Day",
+    "month": 11,
+    "day": 11
+  },
+  {
+    "name": "Veterans Day (in the US)",
+    "month": 11,
+    "day": 11
+  },
+  {
+    "name": "World Pneumonia Day",
+    "month": 11,
+    "day": 12
+  },
+  {
+    "name": "World Kindness Day",
+    "month": 11,
+    "day": 13
+  },
+  {
+    "name": "World Diabetes Day",
+    "month": 11,
+    "day": 14
+  },
+  {
+    "name": "Children's Day",
+    "month": 11,
+    "day": 14
+  },
+  {
+    "name": "International Day for Tolerance",
+    "month": 11,
+    "day": 16
+  },
+  {
+    "name": "World Prematurity Day",
+    "month": 11,
+    "day": 17
+  },
+  {
+    "name": "International Men's Day",
+    "month": 11,
+    "day": 19
+  },
+  {
+    "name": "World Toilet Day",
+    "month": 11,
+    "day": 19
+  },
+  {
+    "name": "Citizen's Day",
+    "month": 11,
+    "day": 19
+  },
+  {
+    "name": "Universal Children's Day",
+    "month": 11,
+    "day": 20
+  },
+  {
+    "name": "Transgender Day of Remembrance",
+    "month": 11,
+    "day": 20
+  },
+  {
+    "name": "World Television Day",
+    "month": 11,
+    "day": 21
+  },
+  {
+    "name": "International Day for the Elimination of Violence against Women",
+    "month": 11,
+    "day": 25
+  },
+  {
+    "name": "Law Day (in India)",
+    "month": 11,
+    "day": 26
+  },
+  {
+    "name": "Saint Andrew's Day (in Scotland)",
+    "month": 11,
+    "day": 30
+  },
+  {
+    "name": "Cities for Life Day",
+    "month": 11,
+    "day": 30
+  },
+  {
+    "name": "World AIDS Day",
+    "month": 12,
+    "day": 1
+  },
+  {
+    "name": "U.A.E. National Day",
+    "month": 12,
+    "day": 2
+  },
+  {
+    "name": "United Nations' International Day of Persons with Disabilities",
+    "month": 12,
+    "day": 3
+  },
+  {
+    "name": "International Volunteer Day",
+    "month": 12,
+    "day": 5
+  },
+  {
+    "name": "World Soil Day",
+    "month": 12,
+    "day": 5
+  },
+  {
+    "name": "Sinterklaas",
+    "month": 12,
+    "day": 5
+  },
+  {
+    "name": "International Civil Aviation Day",
+    "month": 12,
+    "day": 7
+  },
+  {
+    "name": "Feast of the Immaculate Conception",
+    "month": 12,
+    "day": 8
+  },
+  {
+    "name": "International Anti-Corruption Day",
+    "month": 12,
+    "day": 9
+  },
+  {
+    "name": "Human Rights Day",
+    "month": 12,
+    "day": 10
+  },
+  {
+    "name": "International Tea Day",
+    "month": 12,
+    "day": 15
+  },
+  {
+    "name": "Victory Day of Bangladesh",
+    "month": 12,
+    "day": 16
+  },
+  {
+    "name": "Christmas Eve",
+    "month": 12,
+    "day": 24
+  },
+  {
+    "name": "Christmas Day",
+    "month": 12,
+    "day": 25
+  },
+  {
+    "name": "Good Governance Day (in India)",
+    "month": 12,
+    "day": 25
+  },
+  {
+    "name": "Quaid-e-Azam Day",
+    "month": 12,
+    "day": 25
+  },
+  {
+    "name": "Boxing Day",
+    "month": 12,
+    "day": 26
+  },
+  {
+    "name": "Kwanzaa",
+    "month": 12,
+    "day": 27
+  },
+  {
+    "name": "Kwanzaa",
+    "month": 12,
+    "day": 28
+  },
+  {
+    "name": "Kwanzaa",
+    "month": 12,
+    "day": 29
+  },
+  {
+    "name": "Kwanzaa",
+    "month": 12,
+    "day": 30
+  },
+  {
+    "name": "Kwanzaa",
+    "month": 12,
+    "day": 31
+  },
+  {
+    "name": "New Year's Eve",
+    "month": 12,
+    "day": 31
   }
 ]
