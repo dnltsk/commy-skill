@@ -1,5 +1,6 @@
 var Speech = require("./speech");
 var moment = require("moment");
+var COMMEMORATION_DAYS = require('./commemoration-days-repository.json');
 
 describe("Speech", function () {
 
@@ -27,6 +28,12 @@ describe("Speech", function () {
     it("should extract date to '{day name}, {month} {day (nth)}'", function () {
       expect(SPEECH.formatCdDate(MARCH_14)).toEqual("Tuesday, March 14th");
       expect(SPEECH.formatCdDate(JANUARY_3)).toEqual("Tuesday, January 3rd");
+    });
+
+    it("should no day name exist surrounded with a whitespace", function(){
+      COMMEMORATION_DAYS.forEach(function(cd){
+        expect(cd.name.length).toEqual(cd.name.trim().length);
+      });
     });
   });
 
